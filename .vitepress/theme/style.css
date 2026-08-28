@@ -130,7 +130,26 @@
   background-size: cover;
   background-position: left 80%;
   padding-bottom: 48px;
-  margin-bottom: -48px;
+}
+
+/* ヒーロー上のタイトル・会場・期間が写真に沈まないようにする */
+.home-hero-background .VPHero .main {
+  background: rgba(255, 255, 255, 0.92);
+  padding: 1.5rem 1.75rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18);
+}
+
+.dark .home-hero-background .VPHero .main {
+  background: rgba(24, 24, 28, 0.92);
+}
+
+/* 本文が写真に重ならないようにする（features 用の負マージンは使わない） */
+.home-body {
+  background-color: var(--vp-c-bg);
+  position: relative;
+  z-index: 1;
+  padding-top: 32px;
 }
 
 .dark .home-hero-background::before{

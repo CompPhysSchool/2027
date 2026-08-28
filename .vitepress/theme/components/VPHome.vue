@@ -29,10 +29,12 @@ const { frontmatter, theme } = useData()
       <slot name="home-features-after" />
     </div>
 
-    <VPHomeContent v-if="frontmatter.markdownStyles !== false">
-      <Content />
-    </VPHomeContent>
-    <Content v-else />
+    <div class="home-body">
+      <VPHomeContent v-if="frontmatter.markdownStyles !== false">
+        <Content />
+      </VPHomeContent>
+      <Content v-else />
+    </div>
   </div>
 </template>
 
