@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/2027/',
   srcDir: 'src',
   title: "計算物理春の学校 2027",
-  description: "計算物理春の学校 2027は、大学院生や若手研究者を対象に、計算物理の基礎から最先端技術までを幅広く学ぶ場を提供します。モンテカルロ法、第一原理計算、テンソルネットワーク、機械学習、量子計算など、多彩なトピックを専門家の講義や参加者同士の交流を通じて深く理解します。分野を超えた議論や共同研究の機会を促進し、計算物理に関心のある皆様の研究発展をサポートします。皆様の積極的なご参加をお待ちしております。",
+  description: "計算物理春の学校 2027。期間：2027年2月28日〜3月4日。会場：沖縄県青年会館。内容は若手世話人が中心となって決めます。",
   head: [
     ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-QC736FLTQE' }],
     [
@@ -26,7 +26,7 @@ export default defineConfig({
     ["meta", { property: "twitter:card", content: "summary" }],
     ["meta", { property: "twitter:site", content: "@compphysschool"}],
     ["meta", { property: "twitter:title", content: "計算物理春の学校2027"}],
-    ["meta", { property: "twitter:description", content: "「計算物理春の学校」では様々な分野の専門家による講義や、参加者同士の交流を通じて計算物理の理論と実践を広く深く学ぶ場を提供します。大学院生や若手研究者を主な対象とし、計算物理に関する基礎から最先端技術、その応用まで幅広いトピックを取り上げます"}],
+    ["meta", { property: "twitter:description", content: "計算物理春の学校 2027。2027年2月28日〜3月4日、沖縄県青年会館。内容は若手世話人が中心となって決めます。"}],
     ["meta", { property: "twitter:image", content: "https://compphysschool.github.io/2027/images/compphys_hp_top_1200.jpg" }]
   ],
   // https://vitepress.dev/reference/default-theme-config
