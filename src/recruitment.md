@@ -5,7 +5,7 @@
 **応募はこちら:** [応募フォーム](https://forms.gle/HxTscdjQhzPAWGFi6)  
 **締切:** 2026年9月20日
 
-質問・相談は [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) か、2026年春の学校の Discord へ。
+質問・相談は [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) へ。
 
 ## 若手世話人とは
 
@@ -62,4 +62,4 @@
 
 - 応募フォーム: [https://forms.gle/HxTscdjQhzPAWGFi6](https://forms.gle/HxTscdjQhzPAWGFi6)
 - 締切: **2026年9月20日**。基本的に先着順で、希望を尊重します
-- 質問・相談: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) または 2026年春の学校の Discord
+- 質問・相談: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
