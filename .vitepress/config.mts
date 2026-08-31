@@ -35,10 +35,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '若手世話人募集', link: '/recruitment' },
       { text: '過去の様子', items: [
-          { text: '2026年度', link: 'https://compphysschool.github.io/2026/'},
-          { text: '2025年度', link: 'https://compphysschool.github.io/homepage2025/index.html'},
-          { text: '2024年度', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-          { text: '2023年度', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
+          { text: '2026年', link: 'https://compphysschool.github.io/2026/'},
+          { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html'},
+          { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
+          { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
       ]},
       { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
     ],
@@ -46,10 +46,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '若手世話人募集', link: '/recruitment' },
       { text: '過去の様子', items: [
-          { text: '2026年度', link: 'https://compphysschool.github.io/2026/' },
-          { text: '2025年度', link: 'https://compphysschool.github.io/homepage2025/index.html' },
-          { text: '2024年度', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-          { text: '2023年度', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
+          { text: '2026年', link: 'https://compphysschool.github.io/2026/' },
+          { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html' },
+          { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
+          { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
       ]},
       { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
     ],
