@@ -369,6 +369,93 @@
   gap: 8px; /* アイコンとテキストの間に余白を追加 */
 }
 
+/**
+ * 若手世話人募集: ナビとトップのバナー
+ * -------------------------------------------------------------------------- */
+
+.VPNavBarMenuLink[href$="/recruitment.html"],
+.VPNavBarMenuLink[href$="/recruitment"],
+.VPNavScreenMenuLink[href$="/recruitment.html"],
+.VPNavScreenMenuLink[href$="/recruitment"] {
+  font-weight: 700 !important;
+  color: var(--vp-c-brand-1) !important;
+}
+
+.VPNavBar.home.top .VPNavBarMenuLink[href$="/recruitment.html"],
+.VPNavBar.home.top .VPNavBarMenuLink[href$="/recruitment"] {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.recruitment-banner {
+  margin: 0 0 2rem;
+  padding: 1.75rem 1.5rem 1.6rem;
+  border-radius: 12px;
+  background: var(--vp-c-brand-soft);
+  border: 2px solid var(--vp-c-brand-2);
+  text-align: center;
+}
+
+.recruitment-banner-kicker {
+  display: inline-block;
+  margin: 0 0 0.85rem;
+  padding: 0.15rem 0.75rem;
+  border-radius: 999px;
+  background: var(--vp-c-brand-3);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
+.recruitment-banner-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+}
+
+.recruitment-banner-deadline {
+  margin: 0 0 0.85rem;
+  font-size: 1.15rem;
+  color: var(--vp-c-text-1);
+}
+
+.recruitment-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin: 1.25rem 0 0;
+}
+
+.recruitment-banner-btn {
+  display: inline-block;
+  padding: 0.55rem 1.3rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.recruitment-banner-btn-primary {
+  background: var(--vp-c-brand-3);
+  color: #fff !important;
+}
+
+.recruitment-banner-btn-primary:hover {
+  background: var(--vp-c-brand-2);
+}
+
+.recruitment-banner-btn-secondary {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-brand-1) !important;
+  border: 1px solid var(--vp-c-brand-2);
+}
+
+.recruitment-banner-btn-secondary:hover {
+  background: var(--vp-c-brand-soft);
+}
+
 .icon-answer {
   padding-left: 2px;
 }

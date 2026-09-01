@@ -2,8 +2,13 @@
 
 2027年の計算物理春の学校を一緒に作ってくれる若手世話人を募集します。「若手」は学生・ポストドクを含む若手研究者を指します。厳密な年限は設けないので、自分が若手だと思えば応募してください。
 
-**応募はこちら:** [応募フォーム](https://forms.gle/HxTscdjQhzPAWGFi6)  
-**締切:** 2026年9月20日
+<div class="recruitment-banner">
+<p class="recruitment-banner-kicker">募集中</p>
+<p class="recruitment-banner-deadline">締切: <strong>2026年9月20日</strong></p>
+<p class="recruitment-banner-actions">
+<a class="recruitment-banner-btn recruitment-banner-btn-primary" href="https://forms.gle/HxTscdjQhzPAWGFi6">応募する</a>
+</p>
+</div>
 
 質問・相談は [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) へ。
 
