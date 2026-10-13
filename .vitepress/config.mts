@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/2027/',
   srcDir: 'src',
   title: "計算物理春の学校 2027",
-  description: "計算物理春の学校 2027。期間：2027年2月28日〜3月4日。会場：沖縄県青年会館。若手世話人募集中（締切: 2026年9月20日）。",
+  description: "計算物理春の学校 2027。期間：2027年2月28日〜3月4日。会場：沖縄県青年会館。",
   head: [
     ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-QC736FLTQE' }],
     [
@@ -26,14 +26,13 @@ export default defineConfig({
     ["meta", { property: "twitter:card", content: "summary" }],
     ["meta", { property: "twitter:site", content: "@compphysschool"}],
     ["meta", { property: "twitter:title", content: "計算物理春の学校2027"}],
-    ["meta", { property: "twitter:description", content: "計算物理春の学校 2027。2027年2月28日〜3月4日、沖縄県青年会館。若手世話人募集中（締切: 2026年9月20日）。"}],
+    ["meta", { property: "twitter:description", content: "計算物理春の学校 2027。2027年2月28日〜3月4日、沖縄県青年会館。"}],
     ["meta", { property: "twitter:image", content: "https://compphysschool.github.io/2027/images/compphys_hp_top_1200.jpg" }]
   ],
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: '若手世話人募集', link: '/recruitment' },
       { text: '過去の様子', items: [
           { text: '2026年', link: 'https://compphysschool.github.io/2026/'},
           { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html'},
@@ -44,7 +43,6 @@ export default defineConfig({
     ],
     sidebar: [
       { text: 'Home', link: '/' },
-      { text: '若手世話人募集', link: '/recruitment' },
       { text: '過去の様子', items: [
           { text: '2026年', link: 'https://compphysschool.github.io/2026/' },
           { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html' },
