@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/2027/',
   srcDir: 'src',
   title: "計算物理春の学校 2027",
-  description: "計算物理春の学校 2027。期間：2027年2月28日〜3月4日。会場：沖縄県青年会館。",
+  description: "計算物理春の学校 2027は、大学院生や若手研究者を対象に、計算物理の基礎から最先端技術までを幅広く学ぶ場を提供します。期間：2027年2月28日〜3月4日。会場：沖縄県青年会館。",
   head: [
     ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-QC736FLTQE' }],
     [
@@ -23,32 +23,42 @@ export default defineConfig({
     ["link", { rel: "icon", href: "https://compphysschool.github.io/2027/images/compphys_icon.jpg" }],
     ["meta", { property: "og:image", content: "https://compphysschool.github.io/2027/images/compphys_hp_top_1200.jpg" }],
     ["meta", { property: "og:site_name", content: "計算物理春の学校2027" }],
-    ["meta", { property: "twitter:card", content: "summary" }],
+    ["meta", { property: "twitter:card", content: "summary_large_image" }],
     ["meta", { property: "twitter:site", content: "@compphysschool"}],
     ["meta", { property: "twitter:title", content: "計算物理春の学校2027"}],
-    ["meta", { property: "twitter:description", content: "計算物理春の学校 2027。2027年2月28日〜3月4日、沖縄県青年会館。"}],
+    ["meta", { property: "twitter:description", content: "「計算物理春の学校」では様々な分野の専門家による講義や、参加者同士の交流を通じて計算物理の理論と実践を広く深く学ぶ場を提供します。期間：2027年2月28日〜3月4日、会場：沖縄県青年会館。"}],
     ["meta", { property: "twitter:image", content: "https://compphysschool.github.io/2027/images/compphys_hp_top_1200.jpg" }]
   ],
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: '参加登録', link: '/registration' },
+      { text: '時間割', link: '/timetable' },
+      { text: '協賛', link: '/about-sponsorship'},
       { text: '過去の様子', items: [
-          { text: '2026年', link: 'https://compphysschool.github.io/2026/'},
-          { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html'},
-          { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-          { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
+          { text: '2026年度', link: 'https://compphysschool.github.io/2026/'},
+          { text: '2025年度', link: 'https://compphysschool.github.io/homepage2025/index.html'},
+          { text: '2024年度', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
+          { text: '2023年度', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
       ]},
+      { text: 'よくある質問', link: '/faq'},
       { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
     ],
     sidebar: [
       { text: 'Home', link: '/' },
-      { text: '過去の様子', items: [
-          { text: '2026年', link: 'https://compphysschool.github.io/2026/' },
-          { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html' },
-          { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-          { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
+      { text: '参加登録', link: '/registration' },
+      { text: '時間割', link: '/timetable' },
+      { text: '協賛', items: [
+        { text: '協賛のお願い', link: '/about-sponsorship'},
       ]},
+      { text: '過去の様子', items: [
+          { text: '2026年度', link: 'https://compphysschool.github.io/2026/' },
+          { text: '2025年度', link: 'https://compphysschool.github.io/homepage2025/index.html' },
+          { text: '2024年度', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
+          { text: '2023年度', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
+      ]},
+      { text: 'よくある質問', link: '/faq'},
       { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
     ],
     socialLinks: [
