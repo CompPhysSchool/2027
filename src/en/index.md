@@ -21,6 +21,7 @@ The [provisional schedule](/en/timetable) is available. CompPhysHack is in Engli
 
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
+- Access: about 10 minutes by Yui Rail from Naha Airport Station to Asahibashi Station, then about a 10-minute walk
 
 ## Supporting programs
 
