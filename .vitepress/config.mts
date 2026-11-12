@@ -45,7 +45,7 @@ export default defineConfig({
               { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
               { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
           ]},
-          { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
+          { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         sidebar: [
           { text: 'Home', link: '/' },
@@ -56,7 +56,7 @@ export default defineConfig({
               { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
               { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
           ]},
-          { text: 'お問い合わせ', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
+          { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         langMenuLabel: '言語',
       }
@@ -76,7 +76,7 @@ export default defineConfig({
               { text: '2024', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
               { text: '2023', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
           ]},
-          { text: 'Contact', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
+          { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         sidebar: [
           { text: 'Home', link: '/en/' },
@@ -87,7 +87,7 @@ export default defineConfig({
               { text: '2024', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
               { text: '2023', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
           ]},
-          { text: 'Contact', link: 'https://forms.gle/bgMe27Dwzry9ARBP7'},
+          { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         langMenuLabel: 'Language',
       }

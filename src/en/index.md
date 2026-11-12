@@ -14,7 +14,7 @@ hero:
       link: /
     - theme: alt
       text: Contact
-      link: https://forms.gle/bgMe27Dwzry9ARBP7
+      link: mailto:compphysschool2027@googlegroups.com
 ---
 
 The [provisional schedule](/en/timetable) is available. CompPhysHack is in English. Lectures and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged. Lecture topics and speakers will be chosen by the early-career organizers.
@@ -22,6 +22,7 @@ The [provisional schedule](/en/timetable) is available. CompPhysHack is in Engli
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
 - Access: about 10 minutes by Yui Rail from Naha Airport Station to Asahibashi Station, then about a 10-minute walk
+- Contact: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
 
 ## Supporting programs
 

@@ -15,7 +15,7 @@ hero:
       link: /en/
     - theme: alt
       text: お問い合わせ
-      link: https://forms.gle/bgMe27Dwzry9ARBP7
+      link: mailto:compphysschool2027@googlegroups.com
 ---
 
 [仮スケジュール](/timetable)を公開しています。CompPhysHack は英語、講義はそのほかの企画も含めて日本語です。ポスターは日本語と英語で、英語を勧めています。講義の科目や講師は、これから若手世話人が中心となって決めます。
@@ -23,6 +23,7 @@ hero:
 - 期間: 2027年2月28日(日)〜3月4日(木)
 - 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)
 - アクセス: 那覇空港駅からゆいレールで旭橋駅まで約10分、徒歩約10分
+- お問い合わせ: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
 
 ## 共催
 
