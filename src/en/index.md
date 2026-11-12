@@ -17,7 +17,7 @@ hero:
       link: https://forms.gle/bgMe27Dwzry9ARBP7
 ---
 
-The [provisional schedule](/en/timetable) is available. CompPhysHack is in English. Lectures and the other sessions are in Japanese. Lecture topics and speakers will be chosen by the early-career organizers.
+The [provisional schedule](/en/timetable) is available. CompPhysHack is in English. Lectures and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged. Lecture topics and speakers will be chosen by the early-career organizers.
 
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
