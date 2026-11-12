@@ -34,8 +34,8 @@ The school is supported by the following programs.
 
 ## Organizers
 
-品岡 寛 (chair, Saitama Univ.), 永井 佑紀 (treasurer, Univ. of Tokyo), 大久保 毅 (Niigata Univ.), 下川 統久朗 (OIST), 大野 浩史 (Univ. of Tsukuba), 水上 渉 (Osaka Univ.), 金森 逸作 (RIKEN), 富谷 昭夫 (Tokyo Woman's Christian Univ.), 姫岡 優介 (Univ. of Tokyo), 松永 康佑 (Saitama Univ.)
+Hiroshi Shinaoka (chair, Saitama University), Yuki Nagai (treasurer, The University of Tokyo), Tsuyoshi Okubo (Niigata University), Tokuro Shimokawa (Okinawa Institute of Science & Technology Graduate University), Hiroshi Ohno (University of Tsukuba), Wataru Mizukami (The University of Osaka), Issaku Kanamori (RIKEN), Akio Tomiya (Tokyo Woman's Christian University), Yusuke Himeoka (The University of Tokyo), Yasuhiro Matsunaga (Saitama University)
 
 ## Early-career organizers
 
-石田 洋音 (Saitama Univ.), 岡田 灯馬 (Univ. of Tokyo), 川合 毅 (Saitama Univ.), 熊 佳慧 (Univ. of Toyama), 杉本 悠斗 (Tohoku Univ.), 高橋 惇 (ISSP, Univ. of Tokyo), 古江 理紗 (Ochanomizu Univ.), 三井 悟士 (Univ. of Toyama), 森 仁志 (Tohoku Univ.), 森澤 征一郎 (National Institute of Technology, Okinawa College), 横倉 淳也 (Univ. of Tokyo), Shiwen An (Institute of Science Tokyo)
+Hirone Ishida (Saitama University), Toma Okada (The University of Tokyo), Tsuyoshi Kawai (Saitama University), 熊 佳慧 (University of Toyama), Yuto Sugimoto (Tohoku University), Jun Takahashi (The Institute for Solid State Physics, The University of Tokyo), Risa Furue (Ochanomizu University), Satoshi Mitsui (University of Toyama), Hitoshi Mori (Tohoku University), Seiichiro Morizawa (National Institute of Technology, Okinawa College), Junya Yokokura (The University of Tokyo), Shiwen An (Institute of Science Tokyo)
