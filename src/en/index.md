@@ -26,11 +26,11 @@ The [provisional schedule](/en/timetable) is available. CompPhysHack is in Engli
 
 The school is supported by the following programs.
 
-- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only">「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)
-- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only">「精密数値計算が切り拓く宇宙の量子物質科学」](https://qm-science.org/)
-- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only">「相関設計で挑む量子創発」](https://cds.phys.s.u-tokyo.ac.jp/)
-- [Grant-in-Aid for Transformative Research Areas (B)<br class="mobile-only">「細胞と人工細胞を包括する『生命―非生命転移』の統一的学理」](https://life-nonlife.com/)
-- [JST 「サスティナブル量子AI研究拠点」 (SQAI)](https://sqai.jp/)
+- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only"> Foundation of "Machine Learning Physics" — Revolutionary Transformation of Fundamental Physics by A New Field Integrating Machine Learning and Physics](https://mlphys.scphys.kyoto-u.ac.jp/)
+- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only"> Quantum Matter Science in the Universe Opened Up by Precise Numerical Calculations](https://qm-science.org/)
+- [Grant-in-Aid for Transformative Research Areas (A)<br class="mobile-only"> Exploring quantum emergence through correlation design science](https://cds.phys.s.u-tokyo.ac.jp/)
+- [Grant-in-Aid for Transformative Research Areas (B)<br class="mobile-only"> A unified science of "life/non-life transition" encompassing cells and artificial cells](https://life-nonlife.com/)
+- [Program on Open Innovation Platforms for Industry-Academia Co-Creation (COI-NEXT)<br class="mobile-only"> Center of Innovation for Sustainable Quantum AI (SQAI)](https://sqai.jp/)
 
 ## Organizers
 

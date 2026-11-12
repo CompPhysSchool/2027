@@ -27,11 +27,11 @@ hero:
 
 本スクールは以下の団体からの補助を受けています。
 
-- [科学研究費補助金学術変革領域研究A<br class="mobile-only">「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)
-- [科学研究費補助金学術変革領域研究A<br class="mobile-only">「精密数値計算が切り拓く宇宙の量子物質科学」](https://qm-science.org/)
-- [科学研究費補助金学術変革領域研究A<br class="mobile-only">「相関設計で挑む量子創発」](https://cds.phys.s.u-tokyo.ac.jp/)
-- [科学研究費補助金学術変革領域研究B<br class="mobile-only">「細胞と人工細胞を包括する『生命―非生命転移』の統一的学理」](https://life-nonlife.com/)
-- [JST共創の場形成支援プログラム<br class="mobile-only">「サスティナブル量子AI研究拠点」](https://sqai.jp/)
+- [科学研究費助成事業（科研費）学術変革領域研究（A）<br class="mobile-only">「学習物理学」の創成－機械学習と物理学の融合新領域による基礎物理学の変革](https://mlphys.scphys.kyoto-u.ac.jp/)
+- [科学研究費助成事業（科研費）学術変革領域研究（A）<br class="mobile-only">精密数値計算が切り拓く宇宙の量子物質科学](https://qm-science.org/)
+- [科学研究費助成事業（科研費）学術変革領域研究（A）<br class="mobile-only">相関設計で挑む量子創発](https://cds.phys.s.u-tokyo.ac.jp/)
+- [科学研究費助成事業（科研費）学術変革領域研究（B）<br class="mobile-only">細胞と人工細胞を包括する『生命-非生命転移』の統一的学理](https://life-nonlife.com/)
+- [JST 共創の場形成支援プログラム（COI-NEXT）<br class="mobile-only">量子ソフトウェアとHPC・シミュレーション技術の共創によるサスティナブルAI研究拠点](https://sqai.jp/)
 
 ## 世話人
 
