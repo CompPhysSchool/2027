@@ -33,6 +33,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: '仮スケジュール', link: '/timetable' },
       { text: '過去の様子', items: [
           { text: '2026年', link: 'https://compphysschool.github.io/2026/'},
           { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html'},
@@ -43,6 +44,7 @@ export default defineConfig({
     ],
     sidebar: [
       { text: 'Home', link: '/' },
+      { text: '仮スケジュール', link: '/timetable' },
       { text: '過去の様子', items: [
           { text: '2026年', link: 'https://compphysschool.github.io/2026/' },
           { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html' },
