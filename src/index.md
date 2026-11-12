@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "計算物理春の学校"
   text: "2027"
-  tagline: 会場：沖縄県青年会館<br>期間：2027年2月28日(日)〜3月4日(木)
+  tagline: '会場：<a href="https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8" target="_blank" rel="noopener noreferrer">沖縄県青年会館</a><br>期間：2027年2月28日(日)〜3月4日(木)'
   actions:
     - theme: brand
       text: 仮スケジュール
@@ -21,7 +21,7 @@ hero:
 [仮スケジュール](/timetable)を公開しています。CompPhysHack は英語、講義はそのほかの企画も含めて日本語です。講義の科目や講師は、これから若手世話人が中心となって決めます。
 
 - 期間: 2027年2月28日(日)〜3月4日(木)
-- 会場: 沖縄県青年会館
+- 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)
 
 ## 共催
 

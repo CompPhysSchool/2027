@@ -4,7 +4,7 @@
 Times and session names may change. Lecture topics and speakers are not yet decided.
 :::
 
-The school runs from February 28 (Sun) to March 4 (Thu), 2027, at Okinawa Ken Seinen Kaikan in Naha. Lunch is 12:00–13:20 from February 28 through March 3. Lectures include breaks.
+The school runs from February 28 (Sun) to March 4 (Thu), 2027, at [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) in Naha. Lunch is 12:00–13:20 from February 28 through March 3. Lectures include breaks.
 
 CompPhysHack is in English. The common lecture and the individual lectures are in Japanese. The opening, group seminar, company sessions, poster sessions, banquet, free discussion, and the general meeting and closing ceremony are also in Japanese. A lecture given in English will be marked on its own.
 

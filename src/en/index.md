@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Computational Physics"
   text: "Spring School 2027"
-  tagline: "Venue: Okinawa Ken Seinen Kaikan<br>February 28–March 4, 2027"
+  tagline: 'Venue: <a href="https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8" target="_blank" rel="noopener noreferrer">Okinawa Ken Seinen Kaikan</a><br>February 28–March 4, 2027'
   actions:
     - theme: brand
       text: Provisional schedule
@@ -20,7 +20,7 @@ hero:
 The [provisional schedule](/en/timetable) is available. CompPhysHack is in English. Lectures and the other sessions are in Japanese. Lecture topics and speakers will be chosen by the early-career organizers.
 
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
-- Venue: Okinawa Ken Seinen Kaikan (Naha)
+- Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
 
 ## Supporting programs
 
