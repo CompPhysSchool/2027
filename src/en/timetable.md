@@ -1,3 +1,7 @@
+---
+outline: false
+---
+
 # Provisional schedule
 
 ::: warning This schedule is provisional

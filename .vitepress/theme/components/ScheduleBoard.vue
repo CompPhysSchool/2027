@@ -27,18 +27,18 @@ const copy = {
       { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: '共通講義', note: '日本語' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 1部', note: '日本語・軽食付き' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: '企業講演', note: '日本語' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 2部', note: '日本語・軽食付き' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: '企業講演\n企業座談会', note: '日本語' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhysHack', note: '英語' }] },
+      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: '移動' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: '懇親会', note: '日本語' },
       { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'フリーディスカッション', note: '日本語' },
@@ -60,18 +60,18 @@ const copy = {
       { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'Common lecture', note: 'Japanese' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 1', note: 'Japanese, light food' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: 'Company lecture', note: 'Japanese' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 2', note: 'Japanese, light food' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: 'Company lecture\nand roundtable', note: 'Japanese' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual lectures', note: 'Japanese' }, { title: 'CompPhysHack', note: 'English' }] },
+      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: 'Travel' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: 'Banquet', note: 'Japanese' },
       { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'Free discussion', note: 'Japanese' },
@@ -163,19 +163,19 @@ function hourStyle(hour: number) {
   margin: 1.25rem 0 0;
 }
 .sched-scroll {
-  overflow-x: auto;
+  overflow: hidden;
   border: 1px solid #d0d8e0;
   border-radius: 8px;
   background: #fff;
 }
 .sched {
-  min-width: 1180px;
+  width: 100%;
   display: grid;
-  grid-template-columns: 56px repeat(5, minmax(220px, 1fr));
+  grid-template-columns: 2.15rem repeat(5, minmax(0, 1fr));
   grid-template-rows: auto repeat(66, 12px);
   color: #172c40;
-  font-size: 13px;
-  line-height: 1.25;
+  font-size: 11px;
+  line-height: 1.2;
 }
 .corner,
 .day,
@@ -192,19 +192,20 @@ function hourStyle(hour: number) {
   text-align: center;
   white-space: pre-line;
   font-weight: 700;
+  font-size: 11px;
   background: #eaf0f6;
   border-bottom: 1px solid #d0d8e0;
   border-left: 1px solid #d0d8e0;
-  padding: 8px 4px;
+  padding: 6px 2px;
 }
 .hour {
   z-index: 2;
   align-self: start;
   justify-self: end;
   margin-top: -0.7em;
-  padding-right: 6px;
+  padding-right: 3px;
   background: #fff;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
@@ -237,8 +238,8 @@ function hourStyle(hour: number) {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 2px;
-  padding: 4px;
+  gap: 1px;
+  padding: 2px 1px;
 }
 .block.lecture:not(:has(.track)) { background: #e4effa; }
 .block.event { background: #fff0d5; }
@@ -249,7 +250,7 @@ function hourStyle(hour: number) {
 .block time,
 .track time {
   display: block;
-  font-size: 11px;
+  font-size: 9px;
   font-weight: 400;
 }
 .track {
@@ -259,8 +260,8 @@ function hourStyle(hour: number) {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 2px;
-  padding: 4px 3px;
+  gap: 1px;
+  padding: 2px 1px;
 }
 .track.lecture { background: #e4effa; }
 .track.hack {
