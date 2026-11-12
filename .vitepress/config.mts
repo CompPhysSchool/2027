@@ -97,7 +97,6 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     socialLinks: [
-      { icon: 'x', link: 'https://x.com/compphysschool' },
       { icon: 'github', link: 'https://github.com/CompPhysSchool/2027' }
     ],
     footer: {

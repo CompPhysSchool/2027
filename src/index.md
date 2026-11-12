@@ -11,6 +11,9 @@ hero:
       text: 仮スケジュール
       link: /timetable
     - theme: alt
+      text: English
+      link: /en/
+    - theme: alt
       text: お問い合わせ
       link: https://forms.gle/bgMe27Dwzry9ARBP7
 ---

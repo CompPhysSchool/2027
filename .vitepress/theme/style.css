@@ -288,6 +288,23 @@
   color: red;
 }
 
+/* 言語切替は既定で 1280px 未満では出ない。デスクトップのナビが見える幅では出す。 */
+@media (min-width: 768px) {
+  .VPNavBar .VPNavBarTranslations.VPFlyout {
+    display: flex;
+  }
+}
+
+.VPNavBar.home.top .VPNavBarTranslations .text,
+.VPNavBar.home.top .VPNavBarTranslations .option-icon {
+  color: var(--vp-c-gray-2);
+}
+
+.dark .VPNavBar.home.top .VPNavBarTranslations .text,
+.dark .VPNavBar.home.top .VPNavBarTranslations .option-icon {
+  color: #dfdfd6;
+}
+
 /* index.mdのスポンサーバナー用 */
 .sponsor-fixed-banner {
   display: flex;

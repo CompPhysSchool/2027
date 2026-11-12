@@ -10,6 +10,9 @@ hero:
       text: Provisional schedule
       link: /en/timetable
     - theme: alt
+      text: 日本語
+      link: /
+    - theme: alt
       text: Contact
       link: https://forms.gle/bgMe27Dwzry9ARBP7
 ---
