@@ -183,25 +183,21 @@
   }
 }
 
-/* 横幅が1080px未満の時 */
+/* 横幅が1080px未満の時。白いカードの上なので、写真向けの薄い色は使わない */
 @media (max-width: 1080px) {
   :root {
-    /* index.mdのheroのnameのテキスト色 */
+    --vp-home-hero-name-color: #3451b2;
+    --vp-home-hero-name-background: transparent;
+  }
+  .dark {
     --vp-home-hero-name-color: transparent;
-    /* transparentのとき、背景色を透過 */
     --vp-home-hero-name-background: -webkit-linear-gradient(45deg, #7AD3EC, #C0ECE1);
   }
-  /* index.htmlのhero内のtextの色 */
   .VPHero.VPHomeHero .heading {
-    color: var(--vp-c-gray-1);
+    color: var(--vp-c-text-1);
   }
-  /* index.htmlのhero内のtaglineについて */
   .VPHero.VPHomeHero .tagline {
-    /* テキスト色 */
-    color: var(--vp-c-gray-2);
-    /* フォントの太さを変更 */
-    /* font-weight: bold; */
-    /* フォントを変えたい際にはfont-familyで指定 */
+    color: var(--vp-c-text-2);
   }
 }
 
