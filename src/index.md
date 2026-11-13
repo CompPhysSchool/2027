@@ -18,7 +18,9 @@ hero:
       link: mailto:compphysschool2027@googlegroups.com
 ---
 
-[仮スケジュール](/timetable)を公開しています。CompPhysHack は英語、講義はそのほかの企画も含めて日本語です。ポスターは日本語と英語で、英語を勧めています。講義の科目や講師は、これから若手世話人が中心となって決めます。
+参加登録は2026年11月20日に開始する予定です。
+
+[仮スケジュール](/timetable)を公開しています。[CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/) の後継である CompPhysHack2027 を併催します。2日目以降は座学コースと Hackathon コースが併走し、Hackathon は英語です。座学とそのほかの企画は日本語です。ポスターは日本語と英語で、英語を勧めています。講義の科目や講師は、これから若手世話人が中心となって決めます。
 
 - 期間: 2027年2月28日(日)〜3月4日(木)
 - 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)

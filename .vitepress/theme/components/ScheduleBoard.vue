@@ -17,28 +17,28 @@ const copy = {
     days: ['2/28（日）', '3/1（月）', '3/2（火）', '3/3（水）', '3/4（木）'],
     legend: [
       ['lecture', '講義（日本語）'],
-      ['hack', 'CompPhysHack（英語）'],
+      ['hack', 'Hackathon（英語）'],
       ['event', '全体の行事'],
       ['plain', '昼休憩・移動'],
     ],
-    caption: '色の違う枠が横に並んでいる時間は、個別講義と CompPhysHack が同時です。初日に CompPhysHack はありません。講義のあいだには適宜休憩を入れます。',
+    caption: '色の違う枠が横に並んでいる時間は、座学と Hackathon が同時です。初日に Hackathon はありません。講義のあいだには適宜休憩を入れます。',
     blocks: [
       { day: 0, start: '9:00', end: '12:00', kind: 'lecture', title: '開会\nグループセミナー\n企業紹介', note: '日本語' },
       { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: '共通講義', note: '日本語' },
+      { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'AI研究利用の\nトピック紹介\nパネル\nディスカッション', note: '日本語\nスライドは英語' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 1部\n（軽食付き）', note: '日本語＋英語' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: '企業講演', note: '日本語' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 2部\n（軽食付き）', note: '日本語＋英語' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: '企業講演\n企業座談会', note: '日本語' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
-      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '個別講義', note: '日本語' }, { title: 'CompPhys\nHack', note: '英語' }] },
+      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: '会場への移動' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: '懇親会' },
       { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'フリーディスカッション' },
@@ -50,28 +50,28 @@ const copy = {
     days: ['Feb 28\nSun', 'Mar 1\nMon', 'Mar 2\nTue', 'Mar 3\nWed', 'Mar 4\nThu'],
     legend: [
       ['lecture', 'Lectures (Japanese)'],
-      ['hack', 'CompPhysHack (English)'],
+      ['hack', 'Hackathon (English)'],
       ['event', 'Whole-school sessions'],
       ['plain', 'Lunch and travel'],
     ],
-    caption: 'Where two colors sit side by side, the individual lectures and CompPhysHack run at the same time. There is no CompPhysHack on the first day. Lectures include breaks.',
+    caption: 'Where two colors sit side by side, the lecture course and the hackathon run at the same time. There is no hackathon on the first day. Lectures include breaks.',
     blocks: [
       { day: 0, start: '9:00', end: '12:00', kind: 'lecture', title: 'Opening\nGroup seminar\nCompany introductions', note: 'Japanese' },
       { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'Common lecture', note: 'Japanese' },
+      { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'Topic intros\nAI in research\nPanel\ndiscussion', note: 'Japanese\nEnglish slides' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 1\n(light food)', note: 'Japanese + English' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: 'Company lecture', note: 'Japanese' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 2\n(light food)', note: 'Japanese + English' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: 'Company lecture\nand roundtable', note: 'Japanese' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
-      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Individual\nlectures', note: 'Japanese' }, { title: 'CompPhys\nHack', note: 'English' }] },
+      { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: 'Travel to\nthe venue' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: 'Banquet' },
       { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'Free discussion' },
@@ -234,6 +234,10 @@ function hourStyle(hour: number) {
   white-space: pre-line;
   word-break: keep-all;
 }
+.track strong {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
 .block:not(:has(.track)) {
   flex-direction: column;
   align-items: center;
@@ -252,6 +256,7 @@ function hourStyle(hour: number) {
   display: block;
   font-size: 9px;
   font-weight: 400;
+  white-space: pre-line;
 }
 .track {
   flex: 1 1 0;

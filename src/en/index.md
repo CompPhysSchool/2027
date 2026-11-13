@@ -17,7 +17,9 @@ hero:
       link: mailto:compphysschool2027@googlegroups.com
 ---
 
-The [provisional schedule](/en/timetable) is available. CompPhysHack is in English. Lectures and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged. Lecture topics and speakers will be chosen by the early-career organizers.
+Registration is scheduled to open on November 20, 2026.
+
+The [provisional schedule](/en/timetable) is available. CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/), is held alongside the school. From the second day, a lecture course and a hackathon course run in parallel. The hackathon is in English. The lecture course and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged. Lecture topics and speakers will be chosen by the early-career organizers.
 
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
