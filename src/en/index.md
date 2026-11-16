@@ -26,30 +26,9 @@ Registration is scheduled to open on November 20, 2026.
 
 ## Program
 
-Times and sessions are in the [provisional schedule](/en/timetable).
-
-- The first day (February 28) is common to all participants.
-- From the second day (March 1), a lecture course and a hackathon course run in parallel. The hackathon is CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/).
-- The hackathon is in English. The lecture course and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged.
-
-## Lectures
-
-The individual lectures are on March 1–3. The timetable and room assignments are not yet fixed.
-
-### Confirmed lecturers
-
-- Kazuyuki Sekizawa (Institute of Science Tokyo): nuclear physics
-- Yasunari Suzuki (RIKEN): quantum information (FTQC and quantum computer systems)
-
-### Planned fields, lecturer to be announced
-
-- Lattice field theory
-- Machine learning, and formalization with AI and Lean
-- Biophysics and systems biology
-- First-principles calculations
-- Machine learning potentials
-
-The other lecture slots are still open.
+- February 28 is common to all participants: the opening, group seminar, topic introductions and a panel discussion on using AI in research, and a poster session.
+- On March 1–3, participants choose either the [lectures](/en/lectures) or the [hackathon (CompPhysHack2027)](/en/hackathon).
+- Times and sessions are in the [provisional schedule](/en/timetable).
 
 ## Supporting programs
 

@@ -5,7 +5,7 @@ outline: false
 # Provisional schedule
 
 ::: warning This schedule is provisional
-Times and sessions may change. Confirmed lecturers and planned fields are on the [home page](/en/#lectures).
+Times and sessions may change. Confirmed lecturers and planned fields are on the [Lectures](/en/lectures) page.
 :::
 
 February 28 (Sun)–March 4 (Thu), 2027, at [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8), Naha.

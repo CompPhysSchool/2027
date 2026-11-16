@@ -39,6 +39,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: '仮スケジュール', link: '/timetable' },
+          { text: '講義', link: '/lectures' },
+          { text: 'Hackathon', link: '/hackathon' },
           { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         footer: {
@@ -57,6 +59,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Provisional schedule', link: '/en/timetable' },
+          { text: 'Lectures', link: '/en/lectures' },
+          { text: 'Hackathon', link: '/en/hackathon' },
           { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         footer: {
