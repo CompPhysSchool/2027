@@ -14,7 +14,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>参加費は無料です（対面・オンラインとも）。懇親会は有料の予定で、金額は決まりしだいお知らせします。</span>
+                <span>参加費は無料です（対面・オンラインとも）。懇親会は有料の予定で、事前のお振込みをお願いします。金額と振込先は決まりしだいお知らせします。</span>
             </div>
         </div>
         <div class="faq-item">
