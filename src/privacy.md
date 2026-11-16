@@ -42,7 +42,7 @@ We may use AI tools to help process registration data, for example to sort or co
 
 ## Storage and retention
 
-Registration data is stored in Saitama University's Microsoft 365 environment. We delete personal information within one year after the School ends, except records that university accounting rules require us to keep, which we keep for the period those rules require. Statistics without names may be kept.
+Registration data is stored in Saitama University's Microsoft 365 environment and in a Google Drive shared among the organizers. Access is limited to the organizers and their administrative staff. We delete personal information within one year after the School ends, except records that university accounting rules require us to keep, which we keep for the period those rules require. Statistics without names may be kept.
 
 ## Your choices
 
