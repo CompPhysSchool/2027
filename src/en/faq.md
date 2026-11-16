@@ -14,7 +14,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>We will announce it by the time registration opens. In 2026, participation was free both in person and online.</span>
+                <span>No. Participation is free, both in person and online. The banquet is planned to be paid; we will announce the amount once it is decided.</span>
             </div>
         </div>
         <div class="faq-item">

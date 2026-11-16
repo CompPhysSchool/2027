@@ -14,7 +14,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>参加登録の開始までにお知らせします。2026年は対面・オンラインとも無料でした。</span>
+                <span>参加費は無料です（対面・オンラインとも）。懇親会は有料の予定で、金額は決まりしだいお知らせします。</span>
             </div>
         </div>
         <div class="faq-item">
