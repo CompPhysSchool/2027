@@ -44,7 +44,7 @@ export default defineConfig({
           { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         footer: {
-          message: '過去の開催: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a>',
+          message: '過去の開催: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a><br><a href="/2027/privacy">Privacy policy</a>',
           copyright: '© 2027 計算物理春の学校',
         },
         langMenuLabel: '言語',
@@ -64,7 +64,7 @@ export default defineConfig({
           { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
         footer: {
-          message: 'Past schools: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a>',
+          message: 'Past schools: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a><br><a href="/2027/privacy">Privacy policy</a>',
           copyright: '© 2027 Computational Physics Spring School',
         },
         langMenuLabel: 'Language',
