@@ -19,5 +19,5 @@ March 1 starts with an introduction in lecture format. Later that day, participa
 
 - Choose the hackathon when you register for the school. Only registered participants can join.
 - The number of places is limited, first come, first served.
-- Please apply only if you can focus on the hackathon for all three days. You may leave to attend a lecture, but at your own responsibility, and we do not recommend it.
+- Please apply only if you can focus on the hackathon for all three days. If there is a lecture you want to attend, you may leave to join it. We do not recommend it, but it is fine at your own responsibility.
 - Participants who do not join the hackathon attend the [lectures](/en/lectures) at the same time.
