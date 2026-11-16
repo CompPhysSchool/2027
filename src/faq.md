@@ -20,6 +20,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>宿は用意してもらえますか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>いいえ。宿泊は各自で手配してください。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>旅費補助はありますか？</span>
             </div>
             <div class="answer">

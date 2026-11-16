@@ -20,6 +20,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Do the organizers arrange accommodation?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>No. Please arrange your own accommodation.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Is there travel support?</span>
             </div>
             <div class="answer">
