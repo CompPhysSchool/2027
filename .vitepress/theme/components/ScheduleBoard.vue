@@ -23,21 +23,21 @@ const copy = {
     ],
     caption: '色の違う枠が横に並んでいる時間は、座学と Hackathon が同時です。初日に Hackathon はありません。講義のあいだには適宜休憩を入れます。',
     blocks: [
-      { day: 0, start: '9:00', end: '12:00', kind: 'lecture', title: '開会\nグループセミナー\n企業紹介', note: '日本語' },
-      { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
+      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: '開会\nグループセミナー\n企業紹介', note: '日本語' },
+      { day: 0, start: '12:15', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'AI研究利用の\nトピック紹介\nパネル\nディスカッション', note: '日本語\nスライドは英語' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 1部\n（軽食付き）', note: '日本語＋英語' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
-      { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
+      { day: 1, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
+      { day: 1, start: '12:15', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: '企業講演', note: '日本語' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 2部\n（軽食付き）', note: '日本語＋英語' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
-      { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
+      { day: 2, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
+      { day: 2, start: '12:15', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: '企業講演\n企業座談会', note: '日本語' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
-      { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: '昼休憩' },
+      { day: 3, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
+      { day: 3, start: '12:15', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: '会場への移動' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: '懇親会' },
@@ -55,21 +55,21 @@ const copy = {
     ],
     caption: 'Where two colors sit side by side, the lecture course and the hackathon run at the same time. There is no hackathon on the first day. Lectures include breaks.',
     blocks: [
-      { day: 0, start: '9:00', end: '12:00', kind: 'lecture', title: 'Opening\nGroup seminar\nCompany introductions', note: 'Japanese' },
-      { day: 0, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
+      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: 'Opening\nGroup seminar\nCompany introductions', note: 'Japanese' },
+      { day: 0, start: '12:15', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'Topic intros\nAI in research\nPanel\ndiscussion', note: 'Japanese\nEnglish slides' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 1\n(light food)', note: 'Japanese + English' },
-      { day: 1, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
-      { day: 1, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
+      { day: 1, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
+      { day: 1, start: '12:15', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 1, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 1, start: '16:30', end: '18:00', kind: 'event', title: 'Company lecture', note: 'Japanese' },
       { day: 1, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 2\n(light food)', note: 'Japanese + English' },
-      { day: 2, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
-      { day: 2, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
+      { day: 2, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
+      { day: 2, start: '12:15', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 2, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 2, start: '17:00', end: '20:00', kind: 'event', title: 'Company lecture\nand roundtable', note: 'Japanese' },
-      { day: 3, start: '9:00', end: '12:00', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
-      { day: 3, start: '12:00', end: '13:20', kind: 'plain', title: 'Lunch' },
+      { day: 3, start: '9:15', end: '12:15', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
+      { day: 3, start: '12:15', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: 'Travel to\nthe venue' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: 'Banquet' },
@@ -87,8 +87,9 @@ function minutes(clock: string) {
 }
 
 function place(block: Block) {
-  const start = 2 + minutes(block.start) / 10
-  const end = 2 + minutes(block.end) / 10
+  // 1行 = 5分。9:15 や 9:30 のような開始も行の境目に乗る
+  const start = 2 + minutes(block.start) / 5
+  const end = 2 + minutes(block.end) / 5
   return {
     gridColumn: String(block.day + 2),
     gridRow: `${start} / ${end}`,
@@ -96,8 +97,8 @@ function place(block: Block) {
 }
 
 function hourStyle(hour: number) {
-  const row = 2 + (hour - 9) * 6
-  return { gridColumn: '1', gridRow: `${row} / ${row + 1}` }
+  const row = 2 + (hour - 9) * 12
+  return { gridColumn: '1', gridRow: `${row} / ${row + 2}` }
 }
 </script>
 
@@ -116,7 +117,7 @@ function hourStyle(hour: number) {
           v-for="day in 5"
           :key="'wash' + day"
           class="wash"
-          :style="{ gridColumn: day + 1, gridRow: '2 / 68' }"
+          :style="{ gridColumn: day + 1, gridRow: '2 / 134' }"
         />
         <div
           v-for="block in copy[lang || 'ja'].blocks"
@@ -170,7 +171,7 @@ function hourStyle(hour: number) {
   width: 100%;
   display: grid;
   grid-template-columns: 2.15rem repeat(5, minmax(0, 1fr));
-  grid-template-rows: auto repeat(66, 12px);
+  grid-template-rows: auto repeat(132, 6px);
   color: #172c40;
   font-size: 11px;
   line-height: 1.2;

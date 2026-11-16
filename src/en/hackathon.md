@@ -6,7 +6,7 @@ outline: false
 
 CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/), is held as part of the spring school.
 
-- Dates: daytime on March 1–3 (9:00–12:00 and 13:20–16:20). February 28 is common to all participants, with no hackathon
+- Dates: daytime on March 1–3 (9:15–12:15 and 13:20–16:20). February 28 is common to all participants, with no hackathon
 - Venue: the main hall of Okinawa Ken Seinen Kaikan
 - Language: English
 - Themes: to be announced
