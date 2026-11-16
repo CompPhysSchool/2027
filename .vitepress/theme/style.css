@@ -144,6 +144,14 @@
   background: rgba(24, 24, 28, 0.92);
 }
 
+/* 既定の 576px だと英語の "Computational Physics" が途中で折れる。幅に余裕があるときは1行にする */
+@media (min-width: 640px) {
+  .VPHero .heading .name,
+  .VPHero .heading .text {
+    max-width: none;
+  }
+}
+
 /* 本文が写真に重ならないようにする（features 用の負マージンは使わない） */
 .home-body {
   background-color: var(--vp-c-bg);
@@ -232,14 +240,25 @@
   background-color: rgba(27, 27, 31, 0.93);
 }
 
+/* トップの空の写真の上でもサイト名とメニューが読めるよう、上部メニューに半透明の帯を敷く */
+.VPNavBar.home.top {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.dark .VPNavBar.home.top {
+  background: rgba(24, 24, 28, 0.72);
+}
+
 .VPNavBar.home.top .title,
 .VPNavBar.home.top .VPLink.link.VPNavBarMenuLink ,
 .VPNavBar.home.top .VPFlyout .button .text,
 .VPNavBar.home.top .VPLink.link.vp-external-link-icon.VPNavBarMenuLink::after,
 .VPNavBar.home.top .vpi-more-horizontal.icon,
 .VPNavBar.home.top .VPNavBarHamburger.hamburger {
-  /* ライトモードの上部メニューの色 */
-  color: var(--vp-c-gray-2);
+  /* ライトモードの上部メニューの色。下の半透明の帯の上なので濃い色にする */
+  color: var(--vp-c-text-1);
   /* fontの太さ */
   /* font-weight: bold; */
 }
@@ -299,7 +318,7 @@
 
 .VPNavBar.home.top .VPNavBarTranslations .text,
 .VPNavBar.home.top .VPNavBarTranslations .option-icon {
-  color: var(--vp-c-gray-2);
+  color: var(--vp-c-text-1);
 }
 
 .dark .VPNavBar.home.top .VPNavBarTranslations .text,

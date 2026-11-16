@@ -20,12 +20,37 @@ hero:
 
 参加登録は2026年11月20日に開始する予定です。
 
-[仮スケジュール](/timetable)を公開しています。[CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/) の後継である CompPhysHack2027 を併催します。2日目以降は座学コースと Hackathon コースが併走し、Hackathon は英語です。座学とそのほかの企画は日本語です。ポスターは日本語と英語で、英語を勧めています。講義の科目や講師は、これから若手世話人が中心となって決めます。
-
 - 期間: 2027年2月28日(日)〜3月4日(木)
-- 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)
+- 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)（那覇市）
 - アクセス: 那覇空港駅からゆいレールで旭橋駅まで約10分、徒歩約10分
 - お問い合わせ: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
+
+## プログラム
+
+時刻と企画は[仮スケジュール](/timetable)にあります。
+
+- 初日（2月28日）は全員共通です。
+- 2日目（3月1日）以降は、座学コースと Hackathon コースが併走します。Hackathon は [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/) の後継の CompPhysHack2027 です。
+- Hackathon は英語、座学とそのほかの企画は日本語です。ポスターは日本語と英語で、英語を勧めています。
+
+## 講義
+
+個別講義は 3月1日〜3日です。時間割と部屋は未定です。
+
+### 引き受けていただいた講師
+
+- 関澤 一之（東京科学大）：原子核
+- 鈴木 泰成（理研）：量子情報（FTQC・量子計算機システム）
+
+### 講師は未定で、開講を予定している分野
+
+- 格子場の理論
+- 機械学習（AI と Lean による形式化）
+- 生物物理・システムバイオロジー
+- 第一原理計算
+- 機械学習ポテンシャル
+
+このほかの枠はこれから決まります。
 
 ## 共催
 

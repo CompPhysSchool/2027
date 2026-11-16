@@ -19,12 +19,37 @@ hero:
 
 Registration is scheduled to open on November 20, 2026.
 
-The [provisional schedule](/en/timetable) is available. CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/), is held alongside the school. From the second day, a lecture course and a hackathon course run in parallel. The hackathon is in English. The lecture course and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged. Lecture topics and speakers will be chosen by the early-career organizers.
-
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
 - Access: about 10 minutes by Yui Rail from Naha Airport Station to Asahibashi Station, then about a 10-minute walk
 - Contact: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
+
+## Program
+
+Times and sessions are in the [provisional schedule](/en/timetable).
+
+- The first day (February 28) is common to all participants.
+- From the second day (March 1), a lecture course and a hackathon course run in parallel. The hackathon is CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/).
+- The hackathon is in English. The lecture course and the other sessions are in Japanese. Poster sessions are in Japanese and English, and English posters are encouraged.
+
+## Lectures
+
+The individual lectures are on March 1–3. The timetable and room assignments are not yet fixed.
+
+### Confirmed lecturers
+
+- Kazuyuki Sekizawa (Institute of Science Tokyo): nuclear physics
+- Yasunari Suzuki (RIKEN): quantum information (FTQC and quantum computer systems)
+
+### Planned fields, lecturer to be announced
+
+- Lattice field theory
+- Machine learning, and formalization with AI and Lean
+- Biophysics and systems biology
+- First-principles calculations
+- Machine learning potentials
+
+The other lecture slots are still open.
 
 ## Supporting programs
 

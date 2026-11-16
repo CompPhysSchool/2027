@@ -39,56 +39,30 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: '仮スケジュール', link: '/timetable' },
-          { text: '過去の様子', items: [
-              { text: '2026年', link: 'https://compphysschool.github.io/2026/'},
-              { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html'},
-              { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-              { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
-          ]},
           { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
-        sidebar: [
-          { text: 'Home', link: '/' },
-          { text: '仮スケジュール', link: '/timetable' },
-          { text: '過去の様子', items: [
-              { text: '2026年', link: 'https://compphysschool.github.io/2026/' },
-              { text: '2025年', link: 'https://compphysschool.github.io/homepage2025/index.html' },
-              { text: '2024年', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-              { text: '2023年', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
-          ]},
-          { text: 'お問い合わせ', link: 'mailto:compphysschool2027@googlegroups.com'},
-        ],
+        footer: {
+          message: '過去の開催: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a>',
+          copyright: '© 2027 計算物理春の学校',
+        },
         langMenuLabel: '言語',
       }
     },
     en: {
       label: 'English',
       lang: 'en',
-      title: 'Spring School on Computational Physics 2027',
-      description: 'Spring School on Computational Physics 2027, February 28–March 4 at Okinawa Ken Seinen Kaikan.',
+      title: 'Computational Physics Spring School 2027',
+      description: 'Computational Physics Spring School 2027, February 28–March 4 at Okinawa Ken Seinen Kaikan.',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Provisional schedule', link: '/en/timetable' },
-          { text: 'Past schools', items: [
-              { text: '2026', link: 'https://compphysschool.github.io/2026/'},
-              { text: '2025', link: 'https://compphysschool.github.io/homepage2025/index.html'},
-              { text: '2024', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-              { text: '2023', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
-          ]},
           { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
         ],
-        sidebar: [
-          { text: 'Home', link: '/en/' },
-          { text: 'Provisional schedule', link: '/en/timetable' },
-          { text: 'Past schools', items: [
-              { text: '2026', link: 'https://compphysschool.github.io/2026/' },
-              { text: '2025', link: 'https://compphysschool.github.io/homepage2025/index.html' },
-              { text: '2024', link: 'https://compphysspringschool2024.github.io/homepage2024/'},
-              { text: '2023', link: 'https://hohno0223.github.io/comp_phys_spring_school2023/'}
-          ]},
-          { text: 'Contact', link: 'mailto:compphysschool2027@googlegroups.com'},
-        ],
+        footer: {
+          message: 'Past schools: <a href="https://compphysschool.github.io/2026/">2026</a> · <a href="https://compphysschool.github.io/homepage2025/index.html">2025</a> · <a href="https://compphysspringschool2024.github.io/homepage2024/">2024</a> · <a href="https://hohno0223.github.io/comp_phys_spring_school2023/">2023</a>',
+          copyright: '© 2027 Computational Physics Spring School',
+        },
         langMenuLabel: 'Language',
       }
     }
@@ -99,9 +73,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/CompPhysSchool/2027' }
     ],
-    footer: {
-      copyright: '© 2027 Spring School on Computational Physics',
-    },
   },
 
   // https://vitepress.dev/guide/extending-default-theme#overriding-internal-components
