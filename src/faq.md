@@ -50,7 +50,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>2026年11月20日に開始する予定です。受付は先着順で、対面、Hackathon、ポスター発表は枠が埋まりしだい締め切ります。</span>
+                <span>2026年11月20日に開始する予定です。対面参加（Hackathon とポスター発表を含む）の締切は2027年1月31日です。受付は先着順で、締切の前でも枠が埋まりしだい締め切ります。</span>
             </div>
         </div>
         <div class="faq-item">

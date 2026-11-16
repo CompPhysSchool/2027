@@ -50,7 +50,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>It is scheduled to open on November 20, 2026. Places are first come, first served: in-person participation, the hackathon, and poster presentations close when they are full.</span>
+                <span>It is scheduled to open on November 20, 2026. The deadline for in-person participation (including the hackathon and poster presentations) is January 31, 2027. Places are first come, first served, and may close earlier when they are full.</span>
             </div>
         </div>
         <div class="faq-item">
