@@ -17,7 +17,7 @@ Registration is scheduled to open on **November 20, 2026**.
 - Online registration stays open until just before the school.
 - Participation is free, both in person and online. The banquet is planned to be paid in advance by bank transfer; we will announce the amount and account once they are decided.
 - Please arrange your own accommodation. The organizers do not arrange accommodation.
-- Travel support for students is under consideration. We do not ask about it in the form; we will contact applicants once it is decided.
+- Travel support has not been decided, and it may not be offered. Please register without counting on it. If it is offered, we will let registrants know.
 - You choose whether to join the hackathon when you register. See the [Hackathon](/en/hackathon) page.
 - How we handle the information you give us is in the [privacy policy](/privacy).
 

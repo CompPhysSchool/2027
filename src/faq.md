@@ -34,7 +34,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>学生向けに検討中です。参加登録のときには聞かず、決まりしだい応募した方に連絡します。</span>
+                <span>現時点では決まっておらず、実施できない可能性もあります。旅費補助を前提にせずにお申し込みください。実施が決まった場合は、参加登録した方にお知らせします。</span>
             </div>
         </div>
     </div>

@@ -34,7 +34,7 @@ outline: false
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>Travel support for students is under consideration. We do not ask about it in the registration form; we will contact applicants once it is decided.</span>
+                <span>Travel support has not been decided, and it may not be offered. Please register without counting on it. If it is offered, we will let registrants know.</span>
             </div>
         </div>
     </div>
