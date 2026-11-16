@@ -56,6 +56,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Can people working in industry or other organizations join?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>Yes, everyone is welcome, including people working in companies and other organizations.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Can I join before I belong to a research group?</span>
             </div>
             <div class="answer">
