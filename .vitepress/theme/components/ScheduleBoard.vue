@@ -41,9 +41,8 @@ const copy = {
       { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: '座学', note: '日本語' }, { title: 'Hackathon', note: '英語' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: '会場への移動' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: '懇親会' },
-      { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'フリーディスカッション' },
       { day: 4, start: '10:00', end: '11:00', kind: 'event', title: '総会・閉会式', note: '日本語' },
-      { day: 4, start: '13:00', end: '15:00', kind: 'away', title: '午後：解散' },
+      { day: 4, start: '11:00', end: '16:00', kind: 'event', title: 'フリーディスカッション', note: '自由参加\n途中退出可' },
     ] as Block[],
   },
   en: {
@@ -74,9 +73,8 @@ const copy = {
       { day: 3, start: '13:20', end: '16:20', kind: 'lecture', tracks: [{ title: 'Lectures', note: 'Japanese' }, { title: 'Hackathon', note: 'English' }] },
       { day: 3, start: '16:30', end: '18:00', kind: 'plain', title: 'Travel to\nthe venue' },
       { day: 3, start: '18:00', end: '20:00', kind: 'event', title: 'Banquet' },
-      { day: 4, start: '9:00', end: '10:00', kind: 'event', title: 'Free discussion' },
       { day: 4, start: '10:00', end: '11:00', kind: 'event', title: 'General meeting\nand closing', note: 'Japanese' },
-      { day: 4, start: '13:00', end: '15:00', kind: 'away', title: 'Afternoon:\ndeparture' },
+      { day: 4, start: '11:00', end: '16:00', kind: 'event', title: 'Free discussion', note: 'Drop in,\nleave anytime' },
     ] as Block[],
   },
 }
