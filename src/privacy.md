@@ -38,7 +38,7 @@ We do not sell your information. We share it only as follows:
 
 ## Use of AI tools
 
-We may use AI tools to help process registration data, for example to sort or count responses. We only use AI services under zero data retention terms: the service does not store what we send or what it returns, and does not use it to train models.
+We may use AI tools to help process registration data, for example to sort or count responses. We only use AI services whose terms or settings ensure that what we send and what they return are not used to train models.
 
 ## Storage and retention
 
