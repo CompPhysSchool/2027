@@ -10,9 +10,24 @@ Times and sessions may change. Confirmed lecturers and planned fields are on the
 
 February 28 (Sun)–March 4 (Thu), 2027, at [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8), Naha.
 
-- The first day (February 28) is common to all participants, with no hackathon. In the afternoon there are topic introductions on using AI in research, followed by a panel discussion. The talks are in Japanese, with slides in English.
+- The first day (February 28) is common to all participants, with no hackathon. Hackathon participants may attend it or not, as they choose.
 - From the second day (March 1), a lecture course and a hackathon course (CompPhysHack2027) run in parallel.
-- The hackathon is in English. The lecture course, opening, group seminar, company sessions, and the general meeting and closing ceremony are in Japanese. A lecture given in English will be marked in the schedule.
+- The hackathon is in English. The lecture course, company sessions, and the general meeting and closing ceremony are in Japanese. A lecture given in English will be marked in the schedule.
 - Poster sessions are in Japanese and English, and English posters are encouraged.
 
 <ScheduleBoard lang="en" />
+
+## Languages on February 28 (first day)
+
+The first day is common to all participants, with no hackathon. Hackathon participants may attend it or not, as they choose. If you do not understand Japanese, we recommend the English group seminar and the poster session.
+
+| Session | Spoken language | Slides |
+| --- | --- | --- |
+| Opening | Japanese | English |
+| Group seminar | Japanese; English groups are available | — |
+| Company introductions | Japanese | — |
+| Using AI in research (topic introductions and panel discussion) | Japanese | English |
+| Poster session 1 | Japanese and English | — |
+
+Participants who say in the registration form that they cannot follow talks in Japanese are placed in an English group for the group seminar.
+

@@ -23,7 +23,7 @@ const copy = {
     ],
     caption: '色の違う枠が横に並んでいる時間は、座学と Hackathon が同時です。初日に Hackathon はありません。講義のあいだには適宜休憩を入れます。',
     blocks: [
-      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: '開会\nグループセミナー\n企業紹介', note: '日本語' },
+      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: '開会\nグループセミナー\n企業紹介', note: '日本語\n英語の班あり' },
       { day: 0, start: '12:15', end: '13:20', kind: 'plain', title: '昼休憩' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'AI研究利用の\nトピック紹介\nパネル\nディスカッション', note: '日本語\nスライドは英語' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'ポスター 1部\n（軽食付き）', note: '日本語＋英語' },
@@ -55,7 +55,7 @@ const copy = {
     ],
     caption: 'Where two colors sit side by side, the lecture course and the hackathon run at the same time. There is no hackathon on the first day. Lectures include breaks.',
     blocks: [
-      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: 'Opening\nGroup seminar\nCompany introductions', note: 'Japanese' },
+      { day: 0, start: '9:30', end: '12:15', kind: 'lecture', title: 'Opening\nGroup seminar\nCompany introductions', note: 'Japanese\nEnglish groups' },
       { day: 0, start: '12:15', end: '13:20', kind: 'plain', title: 'Lunch' },
       { day: 0, start: '13:20', end: '18:00', kind: 'lecture', title: 'Topic intros\nAI in research\nPanel\ndiscussion', note: 'Japanese\nEnglish slides' },
       { day: 0, start: '18:00', end: '20:00', kind: 'event', title: 'Poster 1\n(light food)', note: 'Japanese + English' },

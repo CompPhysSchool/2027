@@ -8,7 +8,7 @@ Lectures are in Japanese. A lecture given in English will be marked as such.
 
 ## Common lecture (February 28, afternoon)
 
-For all participants: topic introductions on using AI in research, followed by a panel discussion. The talks are in Japanese, with slides in English. Speakers will be announced.
+Common to all participants (optional for hackathon participants): topic introductions on using AI in research, followed by a panel discussion. The talks are in Japanese, with slides in English. Speakers will be announced.
 
 ## Individual lectures (March 1–3)
 

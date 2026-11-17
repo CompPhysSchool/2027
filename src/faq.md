@@ -86,6 +86,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>日本語が分からなくても参加できますか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>はい。Hackathon は英語です。2月28日は、グループセミナーに英語のグループがあり、ポスターは日本語と英語です。開会と AI の研究利用のセッションは、話は日本語でスライドは英語です。Hackathon に登録した人は、2月28日に出るかは任意です。詳しくは <a href="/2027/timetable#_2月28日-初日-の言語">初日の言語</a> を見てください。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Hackathon と講義の両方に出られますか？</span>
             </div>
             <div class="answer">

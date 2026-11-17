@@ -86,6 +86,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>I do not speak Japanese. Can I join?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>Yes. The hackathon is in English. On February 28, the group seminar has English groups and the poster session is in Japanese and English. The opening and the session on using AI in research are spoken in Japanese with English slides. Attending February 28 is optional for hackathon participants. See <a href="/2027/en/timetable#languages-on-february-28-first-day">languages on the first day</a>.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Can I attend both the hackathon and the lectures?</span>
             </div>
             <div class="answer">
