@@ -18,6 +18,7 @@ On March 1–3, participants choose either the individual lectures or the [hacka
 
 - Kazuyuki Sekizawa (Institute of Science Tokyo): nuclear physics
 - Yasunari Suzuki (RIKEN): quantum information (fault-tolerant quantum computing and quantum computer systems)
+- Satoshi Morita (Keio University): tensor renormalization group
 
 ### Planned fields (lecturers to be announced)
 
