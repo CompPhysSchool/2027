@@ -15,7 +15,7 @@ Registration is scheduled to open on **November 20, 2026**.
 - Please arrange your own accommodation. The organizers do not arrange accommodation.
 - Travel support has not been decided, and it may not be offered. Please register without counting on it. If it is offered, we will let registrants know.
 - You choose whether to join the hackathon when you register. See the [Hackathon](/en/hackathon) page.
-- In-person participants are asked whether they will join the group seminar on February 28, and if so, whether they prefer a Japanese or an English group ([languages on the first day](/en/timetable#languages-on-february-28-first-day)).
+- In-person participants are asked whether they will join the group seminar on February 28, and if so, whether they would like an English group. You may choose an English group even if you understand Japanese ([languages on the first day](/en/timetable#languages-on-february-28-first-day)).
 - How we handle the information you give us is in the [privacy policy](/privacy).
 
 For questions, see the [FAQ](/en/faq) or write to [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com).
