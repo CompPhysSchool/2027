@@ -29,5 +29,5 @@ The first day is common to all participants, with no hackathon. Hackathon partic
 | Using AI in research (topic introductions and panel discussion) | Japanese | English |
 | Poster session 1 | Japanese and English | — |
 
-Participants who say in the registration form that they cannot follow talks in Japanese are placed in an English group for the group seminar.
+The registration form asks whether you will join the group seminar, and if so, whether you prefer a Japanese or an English group.
 
