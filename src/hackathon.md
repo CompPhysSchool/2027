@@ -55,7 +55,7 @@ outline: false
 
 ## 計算資源
 
-Hackathon の参加者は、筑波大学計算科学研究センターのスーパーコンピュータ [Pegasus](https://www.ccs.tsukuba.ac.jp/supercomputer/#Pegasus)（NVIDIA H100 GPU）と [Sirius](https://www.ccs.tsukuba.ac.jp/supercomputer/#Sirius)（AMD Instinct MI300A APU）を使えます。対象と申請のしかたは、登録した人に後日お知らせします。自分のノートパソコンや計算資源を使ってもかまいません。
+Hackathon の参加者で、スパコンの使用条件を満たしていれば、筑波大学計算科学研究センターのスーパーコンピュータ [Pegasus](https://www.ccs.tsukuba.ac.jp/supercomputer/#Pegasus)（NVIDIA H100 GPU）と [Sirius](https://www.ccs.tsukuba.ac.jp/supercomputer/#Sirius)（AMD Instinct MI300A APU）を使うことができます。対象と申請のしかたは、登録した人に後日お知らせします。自分のノートパソコンや計算資源を使ってもかまいません。
 
 ## 参加のしかた
 
