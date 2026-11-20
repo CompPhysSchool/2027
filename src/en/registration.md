@@ -1,5 +1,9 @@
 ---
 outline: false
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # Registration
