@@ -12,7 +12,7 @@ head:
 
 **参加登録フォーム**
 
-- [対面参加登録 / On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUNURZN0IwMDMwOEFZSlVMSUZXVVVCNkM0MS4u)
+- [対面参加登録 / On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UQTM5R1dSUVZVRUk3TFVTOVZSVkc4TVY4Uy4u)
 - [オンライン参加登録 / Online registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UM0dLV1YwV0tKTklWNkRMU01NSlFEMDdZMC4u)
 
 対面とオンラインでフォームが分かれています。参加のしかたに合うほうから申し込んでください。
