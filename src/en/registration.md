@@ -12,7 +12,7 @@ Registration is scheduled to open on **November 20, 2026**.
 
 **Registration forms**
 
-- [On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUNURZN0IwMDMwOEFZSlVMSUZXVVVCNkM0MS4u)
+- [On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UQTM5R1dSUVZVRUk3TFVTOVZSVkc4TVY4Uy4u)
 - [Online registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UM0dLV1YwV0tKTklWNkRMU01NSlFEMDdZMC4u)
 
 There are separate forms for in-person and online participation. Use the one that matches how you will attend.
