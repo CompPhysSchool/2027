@@ -10,6 +10,8 @@ head:
 
 Registration is scheduled to open on **November 20, 2026**.
 
+<p style="color: var(--vp-c-danger-1); font-weight: bold;">If your browser is signed in to a Microsoft 365 account of another organization, the forms may stay on "Loading" and never open. If this happens, open this page in a private (incognito) window and fill in the form without signing in.</p>
+
 **Registration forms**
 
 - [On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UQTM5R1dSUVZVRUk3TFVTOVZSVkc4TVY4Uy4u)

@@ -10,6 +10,8 @@ head:
 
 参加登録は **2026年11月20日** に開始する予定です。
 
+<p style="color: var(--vp-c-danger-1); font-weight: bold;">ほかの組織の Microsoft 365 アカウントにログインしているブラウザでは、フォームが「読み込んでいます」のまま止まることがあります。その場合は、プライベートウィンドウ（シークレットウィンドウ）でこのページを開き、ログインしていない状態でフォームに回答してください。</p>
+
 **参加登録フォーム**
 
 - [対面参加登録 / On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UQTM5R1dSUVZVRUk3TFVTOVZSVkc4TVY4Uy4u)
