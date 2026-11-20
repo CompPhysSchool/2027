@@ -10,9 +10,13 @@ head:
 
 参加登録は **2026年11月20日** に開始する予定です。
 
-**参加登録フォーム:** 準備中
+**参加登録フォーム**
 
-- 対面とオンラインの両方を、1つのフォームで受け付けます。
+- [対面参加登録 / On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUNURZN0IwMDMwOEFZSlVMSUZXVVVCNkM0MS4u)
+- [オンライン参加登録 / Online registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UM0dLV1YwV0tKTklWNkRMU01NSlFEMDdZMC4u)
+
+対面とオンラインでフォームが分かれています。参加のしかたに合うほうから申し込んでください。
+
 - 対面参加（Hackathon とポスター発表を含む）の締切は **2027年1月31日（日）** です。受付は先着順で、締切の前でも枠が埋まりしだい締め切ります。
 - オンライン参加は、開催の直前まで受け付けます。
 - 参加費は無料です（対面・オンラインとも）。懇親会は有料の予定で、事前のお振込みをお願いします。金額と振込先は決まりしだいお知らせします。

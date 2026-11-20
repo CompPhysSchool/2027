@@ -10,9 +10,13 @@ head:
 
 Registration is scheduled to open on **November 20, 2026**.
 
-**Registration form:** in preparation
+**Registration forms**
 
-- One form covers both in-person and online participation.
+- [On-site registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUNURZN0IwMDMwOEFZSlVMSUZXVVVCNkM0MS4u)
+- [Online registration](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIQm_lafpvcFIoTSly0ocvQ1UM0dLV1YwV0tKTklWNkRMU01NSlFEMDdZMC4u)
+
+There are separate forms for in-person and online participation. Use the one that matches how you will attend.
+
 - The deadline for in-person participation (including the hackathon and poster presentations) is **January 31 (Sun), 2027**. Places are first come, first served, and may close earlier when they are full.
 - Online registration stays open until just before the school.
 - Participation is free, both in person and online. The banquet is planned to be paid in advance by bank transfer; we will announce the amount and account once they are decided.
