@@ -44,6 +44,7 @@ export default defineConfig({
           { text: '講義', link: '/lectures' },
           { text: 'Hackathon', link: '/hackathon' },
           { text: '参加登録', link: '/registration' },
+          { text: 'Visa', link: '/visa' },
           { text: '協賛', link: '/about-sponsorship' },
           { text: 'よくある質問', link: '/faq' },
         ],
@@ -66,6 +67,7 @@ export default defineConfig({
           { text: 'Lectures', link: '/en/lectures' },
           { text: 'Hackathon', link: '/en/hackathon' },
           { text: 'Registration', link: '/en/registration' },
+          { text: 'Visa', link: '/en/visa' },
           { text: 'FAQ', link: '/en/faq' },
         ],
         footer: {
