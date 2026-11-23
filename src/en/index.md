@@ -7,6 +7,9 @@ hero:
   tagline: 'Venue: <a href="https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8" target="_blank" rel="noopener noreferrer">Okinawa Ken Seinen Kaikan</a><br>February 28–March 4, 2027'
   actions:
     - theme: brand
+      text: Registration
+      link: /en/registration
+    - theme: alt
       text: Provisional schedule
       link: /en/timetable
     - theme: alt
@@ -26,9 +29,17 @@ features:
     details: In small groups, participants present their research or topics they are interested in.
 ---
 
-Computational physics is increasingly important across modern physics, from high-energy physics to condensed matter physics. Beyond established methods such as Monte Carlo, first-principles calculations, and tensor networks, new technologies such as machine learning and quantum computing are expected to shape its future. The Computational Physics Spring School is a place for graduate students and early-career researchers to learn the theory and practice of computational physics, through lectures by experts in many fields and exchange among participants.
+<div class="recruitment-banner">
+<p class="recruitment-banner-kicker">Registration Open</p>
+<p class="recruitment-banner-title">Registration is now open</p>
+<p class="recruitment-banner-deadline">In-person deadline (incl. Hackathon &amp; posters): <strong>January 31 (Sun), 2027</strong> (first come, first served)</p>
+<p>Participation is free (both in person and online). Online registration stays open until just before the school.</p>
+<p class="recruitment-banner-actions">
+<a class="recruitment-banner-btn recruitment-banner-btn-primary" href="/2027/en/registration.html">Go to Registration</a>
+</p>
+</div>
 
-Registration will open in the next few days.
+Computational physics is increasingly important across modern physics, from high-energy physics to condensed matter physics. Beyond established methods such as Monte Carlo, first-principles calculations, and tensor networks, new technologies such as machine learning and quantum computing are expected to shape its future. The Computational Physics Spring School is a place for graduate students and early-career researchers to learn the theory and practice of computational physics, through lectures by experts in many fields and exchange among participants.
 
 - Dates: February 28 (Sun)–March 4 (Thu), 2027
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)

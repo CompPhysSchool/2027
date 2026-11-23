@@ -1,14 +1,10 @@
 ---
 outline: false
-head:
-  - - meta
-    - name: robots
-      content: noindex
 ---
 
 # Registration
 
-Registration is scheduled to open on **November 20, 2026**.
+Registration is now open. Please register using the form below.
 
 <p style="color: var(--vp-c-danger-1); font-weight: bold;">If your browser is signed in to a Microsoft 365 account of another organization, the forms may stay on "Loading" and never open. If this happens, open this page in a private (incognito) window and fill in the form without signing in.</p>
 

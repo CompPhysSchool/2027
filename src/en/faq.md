@@ -46,11 +46,11 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
-                <span>When does registration open?</span>
+                <span>When is registration open, and what is the deadline?</span>
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>It is scheduled to open on November 20, 2026. The deadline for in-person participation (including the hackathon and poster presentations) is January 31, 2027. Places are first come, first served, and may close earlier when they are full. Online registration stays open until just before the school.</span>
+                <span>Registration is now open (<a href="/2027/en/registration.html">Registration</a>). The deadline for in-person participation (including the hackathon and poster presentations) is January 31, 2027. Places are first come, first served, and may close earlier when they are full. Online registration stays open until just before the school.</span>
             </div>
         </div>
         <div class="faq-item">

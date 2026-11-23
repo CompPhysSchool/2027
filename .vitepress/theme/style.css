@@ -414,13 +414,19 @@
 .VPNavBarMenuLink[href$="/recruitment.html"],
 .VPNavBarMenuLink[href$="/recruitment"],
 .VPNavScreenMenuLink[href$="/recruitment.html"],
-.VPNavScreenMenuLink[href$="/recruitment"] {
+.VPNavScreenMenuLink[href$="/recruitment"],
+.VPNavBarMenuLink[href$="/registration.html"],
+.VPNavBarMenuLink[href$="/registration"],
+.VPNavScreenMenuLink[href$="/registration.html"],
+.VPNavScreenMenuLink[href$="/registration"] {
   font-weight: 700 !important;
   color: var(--vp-c-brand-1) !important;
 }
 
 .VPNavBar.home.top .VPNavBarMenuLink[href$="/recruitment.html"],
-.VPNavBar.home.top .VPNavBarMenuLink[href$="/recruitment"] {
+.VPNavBar.home.top .VPNavBarMenuLink[href$="/recruitment"],
+.VPNavBar.home.top .VPNavBarMenuLink[href$="/registration.html"],
+.VPNavBar.home.top .VPNavBarMenuLink[href$="/registration"] {
   color: var(--vp-c-brand-1) !important;
 }
 

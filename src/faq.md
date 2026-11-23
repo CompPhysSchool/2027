@@ -46,11 +46,11 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
-                <span>参加登録の開始はいつですか？</span>
+                <span>参加登録の受付期間・締切はいつですか？</span>
             </div>
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
-                <span>2026年11月20日に開始する予定です。対面参加（Hackathon とポスター発表を含む）の締切は2027年1月31日です。受付は先着順で、締切の前でも枠が埋まりしだい締め切ります。オンライン参加は開催の直前まで受け付けます。</span>
+                <span>現在受け付けています（<a href="/2027/registration.html">参加登録</a>）。対面参加（Hackathon とポスター発表を含む）の締切は2027年1月31日です。受付は先着順で、締切の前でも枠が埋まりしだい締め切ります。オンライン参加は開催の直前まで受け付けます。</span>
             </div>
         </div>
         <div class="faq-item">

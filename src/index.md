@@ -8,6 +8,9 @@ hero:
   tagline: '会場：<a href="https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8" target="_blank" rel="noopener noreferrer">沖縄県青年会館</a><br>期間：2027年2月28日(日)〜3月4日(木)'
   actions:
     - theme: brand
+      text: 参加登録
+      link: /registration
+    - theme: alt
       text: 仮スケジュール
       link: /timetable
     - theme: alt
@@ -27,9 +30,17 @@ features:
     details: 少人数のグループで、自身の研究や興味のある話題を発表し合います。
 ---
 
-計算物理は、高エネルギー物理学から物性物理学まで、現代物理学の幅広い分野で重要性を増しています。モンテカルロ法、第一原理計算、テンソルネットワークといった手法に加え、機械学習や量子計算といった新しい技術が今後の発展に大きく影響すると期待されています。「計算物理春の学校」は、大学院生や若手研究者を主な対象に、様々な分野の専門家による講義と参加者どうしの交流を通じて、計算物理の理論と実践を広く深く学ぶ場です。
+<div class="recruitment-banner">
+<p class="recruitment-banner-kicker">参加登録開始</p>
+<p class="recruitment-banner-title">参加登録を受け付けています</p>
+<p class="recruitment-banner-deadline">対面参加（Hackathon・ポスター発表を含む）締切: <strong>2027年1月31日（日）</strong>（先着順・定員に達ししだい締切）</p>
+<p>参加費は無料です（対面・オンラインとも）。オンライン参加は開催直前まで受け付けます。</p>
+<p class="recruitment-banner-actions">
+<a class="recruitment-banner-btn recruitment-banner-btn-primary" href="/2027/registration.html">参加登録ページへ</a>
+</p>
+</div>
 
-参加登録は数日中に開始する予定です。
+計算物理は、高エネルギー物理学から物性物理学まで、現代物理学の幅広い分野で重要性を増しています。モンテカルロ法、第一原理計算、テンソルネットワークといった手法に加え、機械学習や量子計算といった新しい技術が今後の発展に大きく影響すると期待されています。「計算物理春の学校」は、大学院生や若手研究者を主な対象に、様々な分野の専門家による講義と参加者どうしの交流を通じて、計算物理の理論と実践を広く深く学ぶ場です。
 
 - 期間: 2027年2月28日(日)〜3月4日(木)
 - 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)（那覇市）
