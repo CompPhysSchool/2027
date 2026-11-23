@@ -6,6 +6,8 @@ outline: false
 
 CompPhysHack2027, the successor to [CompPhysHack2026](https://qc-hybrid.github.io/CompPhysHack2026/), is held as part of the spring school.
 
+A hackathon is a hands-on event where participants form teams to intensively build code or tools and tackle problems over a short period, presenting their results on the final day. In CompPhysHack2027, teams work for three days on the theme "Agentic coding for computational physics." Because it begins with an introductory lecture and a hands-on tutorial, no prior hackathon experience is required—experience with computational research or programming is sufficient.
+
 ::: warning Provisional
 The program, lecturers, and other details on this page are provisional and may change without notice. We will update this page as things are decided.
 :::

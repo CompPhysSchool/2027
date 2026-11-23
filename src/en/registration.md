@@ -7,7 +7,7 @@ outline: false
 Registration is now open. Please register using the form below.
 
 ::: tip Two tracks: Lectures or Hackathon
-On March 1–3, the program is split into two tracks: **[Lectures](/en/lectures)** and **[Hackathon (CompPhysHack2027)](/en/hackathon)**.
+On March 1–3, the program is split into two tracks: **[Lectures](/en/lectures)** and **[Hackathon (CompPhysHack2027)](/en/hackathon)** (a hands-on team event in English on coding and development for computational physics).
 
 - **If you want to join the hackathon, you must explicitly select it in the registration form** (only registered participants can join).
 - Hackathon participants are expected to focus on the hackathon for all three days; leaving to attend parts of the lectures is allowed at your own responsibility (though not recommended).

@@ -49,7 +49,7 @@ Computational physics is increasingly important across modern physics, from high
 ## Program
 
 - February 28 is common to all participants (optional for hackathon participants): the opening, group seminar (with English groups), topic introductions and a panel discussion on using AI in research, and a poster session. See the [languages on the first day](/en/timetable#languages-on-february-28-first-day).
-- On March 1–3, participants choose either the [lectures](/en/lectures) or the [hackathon (CompPhysHack2027)](/en/hackathon).
+- On March 1–3, participants choose either the [lectures](/en/lectures) or the [hackathon (CompPhysHack2027)](/en/hackathon) (a hands-on team event on coding and development for computational physics).
 - Times and sessions are in the [provisional schedule](/en/timetable).
 
 ## Supporting programs

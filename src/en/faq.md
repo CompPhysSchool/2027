@@ -96,6 +96,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>What is the hackathon? Can I join without prior hackathon experience?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>It is a hands-on event where participants work in teams to intensively build code or tools and present their results on the final day. Because it starts with an introductory lecture and a hands-on tutorial, no prior hackathon experience is required—experience with computational research or programming is sufficient. See the <a href="/2027/en/hackathon">Hackathon</a> page for details.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Can I attend both the hackathon and the lectures?</span>
             </div>
             <div class="answer">

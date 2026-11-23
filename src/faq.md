@@ -96,6 +96,16 @@ outline: false
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Hackathon（ハッカソン）とは何ですか？未経験でも参加できますか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>参加者がチームに分かれて短期間で集中的に実装・開発に取り組み、最終日に成果を発表する実践型の企画です。最初に導入講義とハンズオンがあるため、ハッカソン未経験でも参加できます。計算機を使った研究やプログラミングの経験があれば十分です。詳しくは <a href="/2027/hackathon">Hackathon</a> のページを見てください。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
                 <span>Hackathon と講義の両方に出られますか？</span>
             </div>
             <div class="answer">
