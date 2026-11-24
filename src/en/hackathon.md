@@ -55,9 +55,11 @@ March 1 starts with an introduction in lecture format. Later that day, participa
 | 13:20–15:30 | Team presentations |
 | 15:30–16:20 | Wrap-up and discussion |
 
+<!--
 ## Computing resources
 
 Hackathon participants who meet the conditions for using the supercomputers can use [Pegasus](https://www.ccs.tsukuba.ac.jp/eng/supercomputers/#Pegasus) (NVIDIA H100 GPUs) and [Sirius](https://www.ccs.tsukuba.ac.jp/eng/supercomputers/#Sirius) (AMD Instinct MI300A APUs) at the Center for Computational Sciences, University of Tsukuba. Eligibility and how to apply will be announced to registered participants later. You can of course also use your own laptop or your own computing resources.
+-->
 
 ## How to join
 
