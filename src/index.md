@@ -46,7 +46,7 @@ features:
 - 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)（那覇市）
 - アクセス: 那覇空港駅からゆいレールで旭橋駅まで約10分、徒歩約10分
 - お問い合わせ: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
-- ポスター: [A4 PDF（英語）](/poster/compphys2027_poster_en_A4.pdf)。自由に印刷して、掲示・配布してください。
+- ポスター: [日本語版](/poster/compphys2027_poster_ja_A4.pdf)・[英語版](/poster/compphys2027_poster_en_A4.pdf)（A4 PDF）。自由に印刷して、掲示・配布してください。
 
 ## プログラム
 

@@ -45,7 +45,7 @@ Computational physics is increasingly important across modern physics, from high
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
 - Access: about 10 minutes by Yui Rail from Naha Airport Station to Asahibashi Station, then about a 10-minute walk
 - Contact: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
-- Poster: [A4 PDF (English)](/poster/compphys2027_poster_en_A4.pdf). Feel free to print it, put it up, and hand it out.
+- Poster: [English](/poster/compphys2027_poster_en_A4.pdf) and [Japanese](/poster/compphys2027_poster_ja_A4.pdf) versions (A4 PDF). Feel free to print them, put them up, and hand them out.
 
 ## Program
 
