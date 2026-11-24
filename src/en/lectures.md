@@ -19,10 +19,10 @@ On March 1–3, participants choose either the individual lectures or the [hacka
 - Kazuyuki Sekizawa (Institute of Science Tokyo): nuclear physics
 - Yasunari Suzuki (RIKEN): quantum information (fault-tolerant quantum computing and quantum computer systems)
 - Satoshi Morita (Keio University): tensor networks (tensor renormalization group)
+- Tetsuya Onogi (The University of Osaka) : Lattice field theory
 
 ### Planned fields (lecturers to be announced)
 
-- Lattice field theory
 - Machine learning, and formalizing mathematics with AI and Lean
 - Biophysics and systems biology
 - First-principles calculations
