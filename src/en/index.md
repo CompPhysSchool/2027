@@ -45,13 +45,13 @@ Computational physics is increasingly important across modern physics, from high
 - Venue: [Okinawa Ken Seinen Kaikan](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8) (Naha)
 - Access: about 10 minutes by Yui Rail from Naha Airport Station to Asahibashi Station, then about a 10-minute walk
 - Contact: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
+- Poster: [A4 PDF (English)](/poster/compphys2027_poster_en_A4.pdf). Feel free to print it, put it up, and hand it out.
 
 ## Program
 
 - February 28 is common to all participants (optional for hackathon participants): the opening, group seminar (with English groups), topic introductions and a panel discussion on using AI in research, and a poster session. See the [languages on the first day](/en/timetable#languages-on-february-28-first-day).
 - On March 1–3, participants choose either the [lectures](/en/lectures) or the [hackathon (CompPhysHack2027)](/en/hackathon) (a hands-on team event on coding and development for computational physics).
 - Times and sessions are in the [provisional schedule](/en/timetable).
-- Poster for printing and posting: [A4 PDF](/poster/compphys2027_poster_en_A4.pdf) (in English)
 
 ## Supporting programs
 

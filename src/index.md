@@ -46,13 +46,13 @@ features:
 - 会場: [沖縄県青年会館](https://maps.app.goo.gl/WWgnRZxDTBfwh7Mc8)（那覇市）
 - アクセス: 那覇空港駅からゆいレールで旭橋駅まで約10分、徒歩約10分
 - お問い合わせ: [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com)
+- ポスター: [A4 PDF（英語）](/poster/compphys2027_poster_en_A4.pdf)。自由に印刷して、掲示・配布してください。
 
 ## プログラム
 
 - 2月28日は全員共通です（Hackathon に登録した人は任意）。開会、グループセミナー（英語のグループあり）、AI の研究利用についてのトピック紹介とパネルディスカッション、ポスターがあります。
 - 3月1日〜3日は、[講義](/lectures)と [Hackathon（CompPhysHack2027）](/hackathon)（チームで計算物理の実装・開発に取り組む実践型企画）のどちらかを選びます。
 - 時刻と企画は[仮スケジュール](/timetable)にあります。
-- 掲示用のポスター（英語、A4 PDF）: [ダウンロード](/poster/compphys2027_poster_en_A4.pdf)
 
 ## 共催
 
