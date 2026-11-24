@@ -22,6 +22,10 @@ On March 1–3, the program is split into two tracks: **[Lectures](/en/lectures)
 
 There are separate forms for in-person and online participation. Use the one that matches how you will attend.
 
+::: warning If you do not receive a confirmation email
+A confirmation email is sent automatically after you submit the form. If you do not receive it after a short while (please also check your spam/junk folder), you may have entered your email address incorrectly. Please contact [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com).
+:::
+
 - The deadline for in-person participation (including the hackathon and poster presentations) is **January 31 (Sun), 2027**. Places are first come, first served, and may close earlier when they are full.
 - Online registration stays open until just before the school.
 - Participation is free, both in person and online. The banquet is planned to be paid in advance by bank transfer; we will announce the amount and account once they are decided.
