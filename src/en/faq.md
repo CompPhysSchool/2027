@@ -93,6 +93,12 @@ outline: false
                 <span>Yes. The hackathon is in English. On February 28, the group seminar has English groups and the poster session is in Japanese and English. The opening and the session on using AI in research are spoken in Japanese with English slides. Attending February 28 is optional for hackathon participants. See <a href="/2027/en/timetable#languages-on-february-28-first-day">languages on the first day</a>.</span>
             </div>
         </div>
+    </div>
+</div>
+
+## Hackathon
+<div class="faq">
+    <div class="faq-container">
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
@@ -101,6 +107,36 @@ outline: false
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
                 <span>It is a hands-on event where participants work in teams to intensively build code or tools and present their results on the final day. Because it starts with an introductory lecture and a hands-on tutorial, no prior hackathon experience is required—experience with computational research or programming is sufficient. See the <a href="/2027/en/hackathon">Hackathon</a> page for details.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>The hackathon is in English. Can I join if I am not confident in speaking or listening in English?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>Yes. As long as you are willing to communicate and participate in English, fluency is not required. We encourage you to treat it as a practical opportunity to get used to cross-cultural communication.</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>How difficult is the hackathon? Does each team have to build a single shared deliverable?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>The difficulty is intended to be adjustable to each participant's level. Last year (CompPhysHack2026), participants were grouped into teams by topic and each person set a concrete theme suited to their own level (details for 2027 will be posted on the <a href="/2027/en/hackathon">Hackathon</a> page once finalized).</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>For hackathon participants, does "February 28 is optional" include the poster session?</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>Yes. All sessions on February 28—including the opening, group seminar, common lecture, and Poster Session 1—are optional for hackathon participants. Of course, you are very welcome to join from February 28 and participate in the poster session and English group seminar (Poster Session 2 is also held on the evening of March 1).</span>
             </div>
         </div>
         <div class="faq-item">

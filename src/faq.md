@@ -93,6 +93,12 @@ outline: false
                 <span>はい。Hackathon は英語です。2月28日は、グループセミナーに英語のグループがあり、ポスターは日本語と英語です。開会と AI の研究利用のセッションは、話は日本語でスライドは英語です。Hackathon に登録した人は、2月28日に出るかは任意です。詳しくは <a href="/2027/timetable#_2月28日-初日-の言語">初日の言語</a> を見てください。</span>
             </div>
         </div>
+    </div>
+</div>
+
+## Hackathon
+<div class="faq">
+    <div class="faq-container">
         <div class="faq-item">
             <div class="question">
                 <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
@@ -101,6 +107,36 @@ outline: false
             <div class="answer">
                 <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
                 <span>参加者がチームに分かれて短期間で集中的に実装・開発に取り組み、最終日に成果を発表する実践型の企画です。最初に導入講義とハンズオンがあるため、ハッカソン未経験でも参加できます。計算機を使った研究やプログラミングの経験があれば十分です。詳しくは <a href="/2027/hackathon">Hackathon</a> のページを見てください。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Hackathon は英語ですが、英語での議論や聞き取りに不安があっても参加できますか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>はい、英語でコミュニケーションを取ろうとする姿勢があれば大丈夫です。流暢さは求めません。異文化コミュニケーションに実践的に慣れる良い機会として、ぜひ参加してみてください。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Hackathon の難易度はどのくらいですか？チームで1つの成果物を作る形式ですか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>難易度は各自が調整できる方針で考えています。昨年度（CompPhysHack2026）は、トピックごとにチーム分けをしたうえで、各自が自分に合った具体的なテーマを設定して取り組む形式でした（今年度の詳細は決まりしだい <a href="/2027/hackathon">Hackathon</a> ページに掲載します）。</span>
+            </div>
+        </div>
+        <div class="faq-item">
+            <div class="question">
+                <img src="/images/icon/question-icon.png" alt="Q" class="icon-question">
+                <span>Hackathon に参加する場合、初日（2月28日）の参加任意にはポスターも含まれますか？</span>
+            </div>
+            <div class="answer">
+                <img src="/images/icon/answer-icon.png" alt="A" class="icon-answer">
+                <span>はい、2月28日は開会・グループセミナー・共通講義・ポスター1部を含めて終日任意です。もちろん、初日から参加してポスター発表や英語のグループセミナーに参加することも歓迎します（ポスターセッションは3月1日夕方にも2部があります）。</span>
             </div>
         </div>
         <div class="faq-item">
