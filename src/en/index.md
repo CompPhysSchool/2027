@@ -63,6 +63,12 @@ The school is supported by the following programs.
 - [Grant-in-Aid for Transformative Research Areas (B)<br class="mobile-only"> A unified science of "life/non-life transition" encompassing cells and artificial cells](https://life-nonlife.com/)
 - [Program on Open Innovation Platforms for Industry-Academia Co-Creation (COI-NEXT)<br class="mobile-only"> Center of Innovation for Sustainable Quantum AI (SQAI)](https://sqai.jp/)
 
+## Endorsement
+
+The school is endorsed by the following organization.
+
+- [Division of Computational Physics, The Physical Society of Japan](https://cp.div.jps.or.jp/)
+
 ## Organizers
 
 Hiroshi Shinaoka (chair, Saitama University), Yuki Nagai (treasurer, The University of Tokyo), Tsuyoshi Okubo (Niigata University), Tokuro Shimokawa (Okinawa Institute of Science & Technology Graduate University), Hiroshi Ohno (University of Tsukuba), Wataru Mizukami (The University of Osaka), Issaku Kanamori (RIKEN), Akio Tomiya (Tokyo Woman's Christian University), Yusuke Himeoka (The University of Tokyo), Yasuhiro Matsunaga (Saitama University)
