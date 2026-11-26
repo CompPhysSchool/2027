@@ -26,6 +26,7 @@ What you enter in the registration form, for example:
 - To arrange travel support and accommodation, if these apply to you
 - To contact you in an emergency during the School
 - To make statistics without names (for example, numbers of participants by position or field) for reports to our funding programs and sponsors, and to plan future schools
+- If you opt in on the registration form, to send you announcements of future Computational Physics Spring Schools by email. For this we keep only your name and email address
 
 ## Who we share it with
 
@@ -42,14 +43,14 @@ We may use AI tools to help process registration data, for example to sort or co
 
 ## Storage and retention
 
-Registration data is stored in Saitama University's Microsoft 365 environment and in a Google Drive shared among the organizers. Access is limited to the organizers and their administrative staff. We delete personal information within one year after the School ends, except records that university accounting rules require us to keep, which we keep for the period those rules require. Statistics without names may be kept.
+Registration data is stored in Saitama University's Microsoft 365 environment and in a Google Drive shared among the organizers. Access is limited to the organizers and their administrative staff. We delete personal information within one year after the School ends, with two exceptions: records that university accounting rules require us to keep, which we keep for the period those rules require; and, if you opted in to announcements of future schools, your name and email address, which we keep until you opt out. Statistics without names may be kept.
 
 ## Your choices
 
-You can ask us to show, correct, or delete your information, or withdraw your consent to sharing with companies, by writing to [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com).
+You can ask us to show, correct, or delete your information, withdraw your consent to sharing with companies, or stop receiving announcements of future schools, by writing to [compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com).
 
 ## Changes
 
 If we change this policy, we will update this page and note the date.
 
-Last updated: November 16, 2026
+Last updated: November 27, 2026 (added optional announcements of future schools)
