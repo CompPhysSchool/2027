@@ -4,11 +4,9 @@ outline: false
 
 # ビザ（Visa）
 
-海外から対面で参加される方で、日本への入国にあたりビザ申請のサポートが必要な場合は、専用の申請フォームからお申し込みください。
+海外から対面で参加される方で、日本への入国にあたりビザ申請のサポートが必要な場合は、次のフォームに記入してください。
 
-::: info 申請フォームは準備中です
-ビザ申請サポートの専用フォームは現在準備中です。準備ができしだい、このページにリンクを掲載します。公開後にそちらのフォームからお申し込みください。
-:::
+[Visa Application Document (Reference Letter, etc.) Information Form に記入する](https://forms.cloud.microsoft/r/rRDfCcq9P8)
 
 - まずは[参加登録](/registration)を済ませてください。
-- 申請フォームの公開前にお急ぎの場合や、ご不明な点がある場合は、[compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) までお問い合わせください。
+- ご不明な点がある場合は、[compphysschool2027@googlegroups.com](mailto:compphysschool2027@googlegroups.com) までお問い合わせください。
